@@ -9,7 +9,7 @@
 }
 
 body, html {
-    width: 100vw;
+    width: 100%;
     height: 100vh;
     background: black url(../imagens/background/background8.jpg) no-repeat center center;
     background-size: cover;
