@@ -52,6 +52,10 @@ section#perfil {
     transform: translate(-50%, -185%);
 }
 
+#perfil #email {
+    display: none;
+}
+
 section#resume {
     background-color: rgb(241, 233, 242);
     height: 100%;
