@@ -12,7 +12,7 @@ export default function Container01() {
       <div className="w-full flex flex-col items-center space-y-8">
          <div>
             <img
-               src="/nome.png"
+               src="/design.png"
                alt="Nome"
                className="w-[300px]"
             />

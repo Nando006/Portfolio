@@ -26,7 +26,7 @@ export default function Home() {
          </section>
          <section
             id="next-section"
-            className="h-screen flex justify-center items-center"
+            className="flex justify-center items-center"
          >
             <div>
                <Container02 />
