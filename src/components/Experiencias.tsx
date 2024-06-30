@@ -4,10 +4,10 @@ export default function Experiencias() {
    return (
       <div>
          <span className="hidden min-[331px]:block text-xl min-[487px]:text-3xl font-bold bg-gradient-to-r from-[#fd3c1a] to-[#ffb061] relative bg-clip-text text-transparent text-shadow-orange font-serif pl-[50px] before:absolute before:bg-[#fd3c1a] before:w-[40px] before:h-[4px] before:bottom-1/2 before:left-[0px]">
-            Minhas Experiêncais
+            Minhas Experiências
          </span>
          <span className="block min-[331px]:hidden text-xl min-[487px]:text-3xl font-bold bg-gradient-to-r from-[#fd3c1a] to-[#ffb061] relative bg-clip-text text-transparent text-shadow-orange font-serif pl-[50px] before:absolute before:bg-[#fd3c1a] before:w-[40px] before:h-[4px] before:bottom-1/2 before:left-[0px]">
-            Experiêncais
+            Experiências
          </span>
          <div className="py-5 px-5 space-y-5 relative before:absolute before:bg-[#fd3c1a] before:h-full before:w-[4px] before:left-0 before:bottom-[15px] before:min-[487px]:bottom-[20px]">
             {
